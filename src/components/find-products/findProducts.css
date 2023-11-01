@@ -1,0 +1,8 @@
+.find__products{
+    display: flex;
+}
+
+.all__products{
+ text-align: left;
+ width: 100%;
+}
